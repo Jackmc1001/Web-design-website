@@ -1,0 +1,53 @@
+header h1{
+    text-align: center;
+    font-family: sans-serif;
+    margin-right: 8%;
+        
+}
+body{
+    font-family: sans-serif;
+}
+nav{
+    text-align: center;
+    margin-right: 8%;
+}
+
+nav ul{
+    
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    font-family: sans-serif;
+        
+}
+#blackbar{
+    float: left;
+    background-color: black;
+    text-align: center;
+    width: 99%;
+    padding:10px;
+    margin:20px 0px 10px 0px;
+    color:white;
+}
+#About{
+    text-align: center;    
+}
+
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    float:left;
+    width: 99%;
+    margin-top: 20px;
+}
